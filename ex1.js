@@ -3,6 +3,6 @@
 // }
 // hello();
 const hello = () =>{
-    console.log("hello, trying for the first time");
+    console.log("hello,");
 }
 hello();
